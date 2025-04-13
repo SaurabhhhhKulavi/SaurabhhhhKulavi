@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Saurabh Kulavi
+Budding Full Stack Developer | Passionate Graphic Designer
+Building seamless web experiences & crafting clean visuals
+Currently exploring JavaScript, React, Node.js & more!
+Let’s build something awesome together.
 
-<!---
-SaurabhhhhKulavi/SaurabhhhhKulavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
